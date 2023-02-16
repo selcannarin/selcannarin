@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Android Development**
 
-- 📫 How to reach me **selcannarin12@gmail.com**
+- 📫 How to reach me **narin.selcan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
