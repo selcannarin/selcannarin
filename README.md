@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Selcan</h1>
 
-<img align="right" height="170" src="https://i.imgur.com/xZbRwfx.gif"  />
+<img src = "https://i.imgur.com/xZbRwfx.gif" width="350" alt = '' align='right'/> 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
